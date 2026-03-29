@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ペルソナの記憶",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-03-29T15:28:22.731063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペルソナの記憶",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_ペルソナの記憶_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ペルソナの記憶 - The Memory of Persona",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_ペルソナの記憶_-_The_Memory_of_Persona_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペルソナの記憶",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_ペルソナの記憶_あいみょん.txt"
+    }
+  ]
+}
